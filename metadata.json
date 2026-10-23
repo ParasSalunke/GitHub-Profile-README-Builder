@@ -1,0 +1,6 @@
+{
+  "name": "OctoProfile - GitHub Profile README Builder & Generator",
+  "description": "Design and generate professional GitHub profile READMEs with customizable themes, tech badges, stats cards, and AI-powered polish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
